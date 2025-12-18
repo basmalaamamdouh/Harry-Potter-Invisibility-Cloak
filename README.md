@@ -1,4 +1,4 @@
-#Harry Potter Invisibility Cloak 🧙‍♂️🪄
+# Harry Potter Invisibility Cloak 🧙‍♂️🪄
 
 A fun computer vision project that makes a red cloak “invisible” in real-time, inspired by Harry Potter’s Invisibility Cloak.
 
