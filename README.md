@@ -43,8 +43,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/harry-potter-invisibility-cloak.git
-cd harry-potter-invisibility-cloak
+git clone https://github.com/basmalaamamdouh/Harry-Potter-Invisibility-Cloak
 
 
 Run the script:
